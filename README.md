@@ -20,6 +20,12 @@ Desarrollar el maquetado de una pagina de detalle de un producto para un sitio d
 - Cantidad disponible
 - Realizar un maquetado con los datos, desarrollado con componentes.
 
+Agregar al mismo un botón "Comprar".
+
+Al hacer clic en dicho botón se deberá mostrar debajo del mismo un mensaje al usuario que diga:
+
+"Gracias por su compra".
+
 Enviar el contenido de la aplicación creada (exceptuando la carpeta node_modules)
 
 
