@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.color{
+  background-color: #282c34;
+}
+.carousel{
+  height: 40%;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carousel-inner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-wrap {
+    min-height: 100vh;
+}
 
 .App-header {
   background-color: #282c34;

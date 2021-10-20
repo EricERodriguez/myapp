@@ -8,14 +8,12 @@ function Name() {
     <div className="App">
       <header className="App-header">
         <p>
-         Nombre del producto: Lentes
-         <Price/><Amount/>
+          Nombre del producto: Lentes
+          <Price/><Amount/>
         </p>
         <Description/>
       </header>
     </div>
-    
-    
   );
 }
 
